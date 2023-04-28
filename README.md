@@ -27,7 +27,7 @@ create a report for an upcoming board meeting. The project is to clean, analyse,
 - I transformed raw dataset from Excel files and designed interactive reports and dashboards to complete the task.
   Raw dataset-uncelan & messy           | Standard Excel worksheet, clean and ready for visualization
   :------------------------------------:|:-----------------------------------------------------------:
-  ![](messy dataset.PNG)                |![](Cleaned dataset.PNG)
+  ![](messy dataset.PNG)                 |![](Cleaned dataset.PNG)
  
  # Mathematics
   ![](Cleaned dataset.PNG)
