@@ -26,6 +26,10 @@ create a report for an upcoming board meeting. The project is to clean, analyse,
 - I created pivot chart to answer each question
 - I created an executive slicer to enable stakeholder filter each  region
 - I transformed raw dataset from Excel files and designed interactive reports and dashboards to complete the task.
-Raw dataset  :Clean dataset
-:----------:-------------:
+ 
+    Raw Dataset Given              |  Cleaned and formatted to standard Excel worksheet
+  :-------------------------------:|:---------------------------------:
+  ![](messyy.PNG)                  |         ![](Cleaned.PNG)
+
+
 ![](THanku.jfif)
