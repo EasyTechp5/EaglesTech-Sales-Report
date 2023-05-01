@@ -27,9 +27,30 @@ create a report for an upcoming board meeting. The project is to clean, analyse,
 - I created an executive slicer to enable stakeholder filter each  region
 - I transformed raw dataset from Excel files and designed interactive reports and dashboards to complete the task.
  
-    Raw Dataset Given              |  Cleaned and formatted to standard Excel worksheet
+    Raw Dataset Given              |  Cleaned and formatted to Standard Excel worksheet
   :-------------------------------:|:---------------------------------:
   ![](messyy.PNG)                  |         ![](Cleaned.PNG)
 
+# Insights and Analysis
+Here are the the insights derived from the dataset to answer the given question
+Yearly Changes in Revenue          |  Revenue by Sales Reps            | Revenue by Products
+  :-------------------------------:|:---------------------------------:|:---------------------------------:
+  ![](Yearly_changesInRevenue.PNG) |  ![](Revenue_by_Region.PNG)       | ![](Revenue_by_Products.PNG)
+   
+  Revenue by Region                |  Sales Trend
+  :-------------------------------:|:---------------------------------:
+  ![](Revenue_by_SalesReps.PNG)    |      ![](Sales_Trend.PNG)
+
+
+# Visualization
+Here is the Dashboard to be presented to the stakeholders for necessary action to be taken
+![](Dashboard.PNG)
+
+ 
+ 
+ 
+ # Recommendation
+ For a deep dive into the analytics, the datasets of the previous year will be required for comparison and data driven making 😄
 
 ![](THanku.jfif)
+click [here](https://www.linkedin.com/in/israelafolabieasytech) to follow me on linkedin
